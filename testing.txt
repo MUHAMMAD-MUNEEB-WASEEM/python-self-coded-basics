@@ -1,0 +1,2 @@
+Reading and writing using r+ modet
+Writing a line using append method
